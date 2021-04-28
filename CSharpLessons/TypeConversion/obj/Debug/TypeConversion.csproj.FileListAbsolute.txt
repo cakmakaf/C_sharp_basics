@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/TypeConversion/bin/Debug/TypeConversion.exe
+/Users/NRPD87/Documents/CSharpLessons/TypeConversion/bin/Debug/TypeConversion.pdb
+/Users/NRPD87/Documents/CSharpLessons/TypeConversion/obj/Debug/TypeConversion.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/TypeConversion/obj/Debug/TypeConversion.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/TypeConversion/obj/Debug/TypeConversion.exe
+/Users/NRPD87/Documents/CSharpLessons/TypeConversion/obj/Debug/TypeConversion.pdb
