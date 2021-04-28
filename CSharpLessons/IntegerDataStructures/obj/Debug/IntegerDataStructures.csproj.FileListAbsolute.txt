@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/IntegerDataStructures/bin/Debug/IntegerDataStructures.exe
+/Users/NRPD87/Documents/CSharpLessons/IntegerDataStructures/bin/Debug/IntegerDataStructures.pdb
+/Users/NRPD87/Documents/CSharpLessons/IntegerDataStructures/obj/Debug/IntegerDataStructures.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/IntegerDataStructures/obj/Debug/IntegerDataStructures.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/IntegerDataStructures/obj/Debug/IntegerDataStructures.exe
+/Users/NRPD87/Documents/CSharpLessons/IntegerDataStructures/obj/Debug/IntegerDataStructures.pdb

@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/ShortProject/bin/Debug/ShortProject.exe
+/Users/NRPD87/Documents/CSharpLessons/ShortProject/bin/Debug/ShortProject.pdb
+/Users/NRPD87/Documents/CSharpLessons/ShortProject/obj/Debug/ShortProject.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/ShortProject/obj/Debug/ShortProject.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/ShortProject/obj/Debug/ShortProject.exe
+/Users/NRPD87/Documents/CSharpLessons/ShortProject/obj/Debug/ShortProject.pdb

@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/UserInsert/bin/Debug/UserInsert.exe
+/Users/NRPD87/Documents/CSharpLessons/UserInsert/bin/Debug/UserInsert.pdb
+/Users/NRPD87/Documents/CSharpLessons/UserInsert/obj/Debug/UserInsert.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/UserInsert/obj/Debug/UserInsert.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/UserInsert/obj/Debug/UserInsert.exe
+/Users/NRPD87/Documents/CSharpLessons/UserInsert/obj/Debug/UserInsert.pdb

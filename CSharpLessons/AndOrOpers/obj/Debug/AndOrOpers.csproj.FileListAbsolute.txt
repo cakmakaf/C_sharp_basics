@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/AndOrOpers/bin/Debug/AndOrOpers.exe
+/Users/NRPD87/Documents/CSharpLessons/AndOrOpers/bin/Debug/AndOrOpers.pdb
+/Users/NRPD87/Documents/CSharpLessons/AndOrOpers/obj/Debug/AndOrOpers.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/AndOrOpers/obj/Debug/AndOrOpers.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/AndOrOpers/obj/Debug/AndOrOpers.exe
+/Users/NRPD87/Documents/CSharpLessons/AndOrOpers/obj/Debug/AndOrOpers.pdb

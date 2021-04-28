@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/IncreaseDecrease/bin/Debug/IncreaseDecrease.exe
+/Users/NRPD87/Documents/CSharpLessons/IncreaseDecrease/bin/Debug/IncreaseDecrease.pdb
+/Users/NRPD87/Documents/CSharpLessons/IncreaseDecrease/obj/Debug/IncreaseDecrease.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/IncreaseDecrease/obj/Debug/IncreaseDecrease.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/IncreaseDecrease/obj/Debug/IncreaseDecrease.exe
+/Users/NRPD87/Documents/CSharpLessons/IncreaseDecrease/obj/Debug/IncreaseDecrease.pdb

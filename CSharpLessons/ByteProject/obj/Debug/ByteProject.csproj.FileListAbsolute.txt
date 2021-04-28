@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/ByteProject/bin/Debug/ByteProject.exe
+/Users/NRPD87/Documents/CSharpLessons/ByteProject/bin/Debug/ByteProject.pdb
+/Users/NRPD87/Documents/CSharpLessons/ByteProject/obj/Debug/ByteProject.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/ByteProject/obj/Debug/ByteProject.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/ByteProject/obj/Debug/ByteProject.exe
+/Users/NRPD87/Documents/CSharpLessons/ByteProject/obj/Debug/ByteProject.pdb

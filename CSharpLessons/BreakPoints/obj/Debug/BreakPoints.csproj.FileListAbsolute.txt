@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/BreakPoints/bin/Debug/BreakPoints.exe
+/Users/NRPD87/Documents/CSharpLessons/BreakPoints/bin/Debug/BreakPoints.pdb
+/Users/NRPD87/Documents/CSharpLessons/BreakPoints/obj/Debug/BreakPoints.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/BreakPoints/obj/Debug/BreakPoints.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/BreakPoints/obj/Debug/BreakPoints.exe
+/Users/NRPD87/Documents/CSharpLessons/BreakPoints/obj/Debug/BreakPoints.pdb
