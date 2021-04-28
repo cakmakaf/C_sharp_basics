@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/ElifConditionals/bin/Debug/ElifConditionals.exe
+/Users/NRPD87/Documents/CSharpLessons/ElifConditionals/bin/Debug/ElifConditionals.pdb
+/Users/NRPD87/Documents/CSharpLessons/ElifConditionals/obj/Debug/ElifConditionals.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/ElifConditionals/obj/Debug/ElifConditionals.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/ElifConditionals/obj/Debug/ElifConditionals.exe
+/Users/NRPD87/Documents/CSharpLessons/ElifConditionals/obj/Debug/ElifConditionals.pdb
