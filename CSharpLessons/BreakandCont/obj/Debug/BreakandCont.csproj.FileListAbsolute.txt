@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/BreakandCont/bin/Debug/BreakandCont.exe
+/Users/NRPD87/Documents/CSharpLessons/BreakandCont/bin/Debug/BreakandCont.pdb
+/Users/NRPD87/Documents/CSharpLessons/BreakandCont/obj/Debug/BreakandCont.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/BreakandCont/obj/Debug/BreakandCont.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/BreakandCont/obj/Debug/BreakandCont.exe
+/Users/NRPD87/Documents/CSharpLessons/BreakandCont/obj/Debug/BreakandCont.pdb
