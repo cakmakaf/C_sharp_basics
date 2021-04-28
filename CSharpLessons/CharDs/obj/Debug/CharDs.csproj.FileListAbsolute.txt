@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/CharDs/bin/Debug/CharDs.exe
+/Users/NRPD87/Documents/CSharpLessons/CharDs/bin/Debug/CharDs.pdb
+/Users/NRPD87/Documents/CSharpLessons/CharDs/obj/Debug/CharDs.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/CharDs/obj/Debug/CharDs.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/CharDs/obj/Debug/CharDs.exe
+/Users/NRPD87/Documents/CSharpLessons/CharDs/obj/Debug/CharDs.pdb

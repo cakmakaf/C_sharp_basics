@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/StringDs/bin/Debug/StringDs.exe
+/Users/NRPD87/Documents/CSharpLessons/StringDs/bin/Debug/StringDs.pdb
+/Users/NRPD87/Documents/CSharpLessons/StringDs/obj/Debug/StringDs.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/StringDs/obj/Debug/StringDs.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/StringDs/obj/Debug/StringDs.exe
+/Users/NRPD87/Documents/CSharpLessons/StringDs/obj/Debug/StringDs.pdb

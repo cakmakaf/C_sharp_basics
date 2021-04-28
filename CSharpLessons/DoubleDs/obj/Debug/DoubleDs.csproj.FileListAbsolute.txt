@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/DoubleDs/bin/Debug/DoubleDs.exe
+/Users/NRPD87/Documents/CSharpLessons/DoubleDs/bin/Debug/DoubleDs.pdb
+/Users/NRPD87/Documents/CSharpLessons/DoubleDs/obj/Debug/DoubleDs.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/DoubleDs/obj/Debug/DoubleDs.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/DoubleDs/obj/Debug/DoubleDs.exe
+/Users/NRPD87/Documents/CSharpLessons/DoubleDs/obj/Debug/DoubleDs.pdb

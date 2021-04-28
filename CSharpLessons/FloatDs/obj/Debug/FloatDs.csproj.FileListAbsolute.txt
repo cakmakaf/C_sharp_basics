@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/FloatDs/obj/Debug/FloatDs.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/FloatDs/obj/Debug/FloatDs.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/FloatDs/bin/Debug/FloatDs.exe
+/Users/NRPD87/Documents/CSharpLessons/FloatDs/bin/Debug/FloatDs.pdb
+/Users/NRPD87/Documents/CSharpLessons/FloatDs/obj/Debug/FloatDs.exe
+/Users/NRPD87/Documents/CSharpLessons/FloatDs/obj/Debug/FloatDs.pdb

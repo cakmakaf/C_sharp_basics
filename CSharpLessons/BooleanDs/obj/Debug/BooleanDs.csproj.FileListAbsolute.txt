@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/BooleanDs/bin/Debug/BooleanDs.exe
+/Users/NRPD87/Documents/CSharpLessons/BooleanDs/bin/Debug/BooleanDs.pdb
+/Users/NRPD87/Documents/CSharpLessons/BooleanDs/obj/Debug/BooleanDs.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/BooleanDs/obj/Debug/BooleanDs.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/BooleanDs/obj/Debug/BooleanDs.exe
+/Users/NRPD87/Documents/CSharpLessons/BooleanDs/obj/Debug/BooleanDs.pdb

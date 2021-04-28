@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/LongDs/bin/Debug/LongDs.exe
+/Users/NRPD87/Documents/CSharpLessons/LongDs/bin/Debug/LongDs.pdb
+/Users/NRPD87/Documents/CSharpLessons/LongDs/obj/Debug/LongDs.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/LongDs/obj/Debug/LongDs.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/LongDs/obj/Debug/LongDs.exe
+/Users/NRPD87/Documents/CSharpLessons/LongDs/obj/Debug/LongDs.pdb
