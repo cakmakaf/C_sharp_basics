@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/MultipTable/bin/Debug/MultipTable.exe
+/Users/NRPD87/Documents/CSharpLessons/MultipTable/bin/Debug/MultipTable.pdb
+/Users/NRPD87/Documents/CSharpLessons/MultipTable/obj/Debug/MultipTable.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/MultipTable/obj/Debug/MultipTable.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/MultipTable/obj/Debug/MultipTable.exe
+/Users/NRPD87/Documents/CSharpLessons/MultipTable/obj/Debug/MultipTable.pdb
