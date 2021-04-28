@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/AppATM/bin/Debug/AppATM.exe
+/Users/NRPD87/Documents/CSharpLessons/AppATM/bin/Debug/AppATM.pdb
+/Users/NRPD87/Documents/CSharpLessons/AppATM/obj/Debug/AppATM.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/AppATM/obj/Debug/AppATM.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/AppATM/obj/Debug/AppATM.exe
+/Users/NRPD87/Documents/CSharpLessons/AppATM/obj/Debug/AppATM.pdb
