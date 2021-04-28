@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/AppATMwithSwitch/bin/Debug/AppATMwithSwitch.exe
+/Users/NRPD87/Documents/CSharpLessons/AppATMwithSwitch/bin/Debug/AppATMwithSwitch.pdb
+/Users/NRPD87/Documents/CSharpLessons/AppATMwithSwitch/obj/Debug/AppATMwithSwitch.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/AppATMwithSwitch/obj/Debug/AppATMwithSwitch.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/AppATMwithSwitch/obj/Debug/AppATMwithSwitch.exe
+/Users/NRPD87/Documents/CSharpLessons/AppATMwithSwitch/obj/Debug/AppATMwithSwitch.pdb
