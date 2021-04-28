@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/whileLoops/bin/Debug/whileLoops.exe
+/Users/NRPD87/Documents/CSharpLessons/whileLoops/bin/Debug/whileLoops.pdb
+/Users/NRPD87/Documents/CSharpLessons/whileLoops/obj/Debug/whileLoops.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/whileLoops/obj/Debug/whileLoops.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/whileLoops/obj/Debug/whileLoops.exe
+/Users/NRPD87/Documents/CSharpLessons/whileLoops/obj/Debug/whileLoops.pdb
