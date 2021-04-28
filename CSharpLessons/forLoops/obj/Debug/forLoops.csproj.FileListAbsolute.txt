@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/forLoops/bin/Debug/forLoops.exe
+/Users/NRPD87/Documents/CSharpLessons/forLoops/bin/Debug/forLoops.pdb
+/Users/NRPD87/Documents/CSharpLessons/forLoops/obj/Debug/forLoops.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/forLoops/obj/Debug/forLoops.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/forLoops/obj/Debug/forLoops.exe
+/Users/NRPD87/Documents/CSharpLessons/forLoops/obj/Debug/forLoops.pdb
