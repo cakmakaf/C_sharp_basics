@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/IfConditionals/bin/Debug/IfConditionals.exe
+/Users/NRPD87/Documents/CSharpLessons/IfConditionals/bin/Debug/IfConditionals.pdb
+/Users/NRPD87/Documents/CSharpLessons/IfConditionals/obj/Debug/IfConditionals.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/IfConditionals/obj/Debug/IfConditionals.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/IfConditionals/obj/Debug/IfConditionals.exe
+/Users/NRPD87/Documents/CSharpLessons/IfConditionals/obj/Debug/IfConditionals.pdb
