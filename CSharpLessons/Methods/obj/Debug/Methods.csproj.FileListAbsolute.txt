@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/Methods/bin/Debug/Methods.exe
+/Users/NRPD87/Documents/CSharpLessons/Methods/bin/Debug/Methods.pdb
+/Users/NRPD87/Documents/CSharpLessons/Methods/obj/Debug/Methods.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/Methods/obj/Debug/Methods.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/Methods/obj/Debug/Methods.exe
+/Users/NRPD87/Documents/CSharpLessons/Methods/obj/Debug/Methods.pdb
