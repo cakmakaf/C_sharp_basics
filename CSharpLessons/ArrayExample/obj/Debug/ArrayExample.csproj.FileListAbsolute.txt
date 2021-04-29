@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/ArrayExample/bin/Debug/ArrayExample.exe
+/Users/NRPD87/Documents/CSharpLessons/ArrayExample/bin/Debug/ArrayExample.pdb
+/Users/NRPD87/Documents/CSharpLessons/ArrayExample/obj/Debug/ArrayExample.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/ArrayExample/obj/Debug/ArrayExample.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/ArrayExample/obj/Debug/ArrayExample.exe
+/Users/NRPD87/Documents/CSharpLessons/ArrayExample/obj/Debug/ArrayExample.pdb
