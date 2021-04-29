@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/returnMethod/bin/Debug/returnMethod.exe
+/Users/NRPD87/Documents/CSharpLessons/returnMethod/bin/Debug/returnMethod.pdb
+/Users/NRPD87/Documents/CSharpLessons/returnMethod/obj/Debug/returnMethod.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/returnMethod/obj/Debug/returnMethod.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/returnMethod/obj/Debug/returnMethod.exe
+/Users/NRPD87/Documents/CSharpLessons/returnMethod/obj/Debug/returnMethod.pdb
