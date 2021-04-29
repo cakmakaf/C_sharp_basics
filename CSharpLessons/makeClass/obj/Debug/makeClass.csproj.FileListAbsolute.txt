@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/makeClass/bin/Debug/makeClass.exe
+/Users/NRPD87/Documents/CSharpLessons/makeClass/bin/Debug/makeClass.pdb
+/Users/NRPD87/Documents/CSharpLessons/makeClass/obj/Debug/makeClass.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/makeClass/obj/Debug/makeClass.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/makeClass/obj/Debug/makeClass.exe
+/Users/NRPD87/Documents/CSharpLessons/makeClass/obj/Debug/makeClass.pdb
