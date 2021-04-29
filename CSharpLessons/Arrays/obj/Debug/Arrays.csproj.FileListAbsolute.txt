@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/Arrays/bin/Debug/Arrays.exe
+/Users/NRPD87/Documents/CSharpLessons/Arrays/bin/Debug/Arrays.pdb
+/Users/NRPD87/Documents/CSharpLessons/Arrays/obj/Debug/Arrays.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/Arrays/obj/Debug/Arrays.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/Arrays/obj/Debug/Arrays.exe
+/Users/NRPD87/Documents/CSharpLessons/Arrays/obj/Debug/Arrays.pdb
