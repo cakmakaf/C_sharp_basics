@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/forEachLoop/bin/Debug/forEachLoop.exe
+/Users/NRPD87/Documents/CSharpLessons/forEachLoop/bin/Debug/forEachLoop.pdb
+/Users/NRPD87/Documents/CSharpLessons/forEachLoop/obj/Debug/forEachLoop.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/forEachLoop/obj/Debug/forEachLoop.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/forEachLoop/obj/Debug/forEachLoop.exe
+/Users/NRPD87/Documents/CSharpLessons/forEachLoop/obj/Debug/forEachLoop.pdb
