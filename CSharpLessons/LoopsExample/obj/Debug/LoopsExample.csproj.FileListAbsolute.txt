@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/LoopsExample/bin/Debug/LoopsExample.exe
+/Users/NRPD87/Documents/CSharpLessons/LoopsExample/bin/Debug/LoopsExample.pdb
+/Users/NRPD87/Documents/CSharpLessons/LoopsExample/obj/Debug/LoopsExample.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/LoopsExample/obj/Debug/LoopsExample.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/LoopsExample/obj/Debug/LoopsExample.exe
+/Users/NRPD87/Documents/CSharpLessons/LoopsExample/obj/Debug/LoopsExample.pdb
