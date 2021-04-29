@@ -1,0 +1,6 @@
+/Users/NRPD87/Documents/CSharpLessons/MthodAdd/bin/Debug/MthodAdd.exe
+/Users/NRPD87/Documents/CSharpLessons/MthodAdd/bin/Debug/MthodAdd.pdb
+/Users/NRPD87/Documents/CSharpLessons/MthodAdd/obj/Debug/MthodAdd.csprojAssemblyReference.cache
+/Users/NRPD87/Documents/CSharpLessons/MthodAdd/obj/Debug/MthodAdd.csproj.CoreCompileInputs.cache
+/Users/NRPD87/Documents/CSharpLessons/MthodAdd/obj/Debug/MthodAdd.exe
+/Users/NRPD87/Documents/CSharpLessons/MthodAdd/obj/Debug/MthodAdd.pdb
